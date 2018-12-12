@@ -1,0 +1,9 @@
+{
+    "DB": {
+        "PORT": 3306,
+        "HOST": "localhost",
+        "DATABASE": "test",
+        "USERNAME": "GameLab",
+        "PASSWORD": "GameLab"
+    }
+}
